@@ -1,13 +1,8 @@
-
-
-
-
 ```
 git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/zjt0515/myoj.git
+git add .
+git commit -m ""
+git remote add origin [ur]
 git push -u origin main
 ```
 
@@ -19,9 +14,11 @@ git push -u origin main
 
 `git commit -m ["note"]`
 
-`git remote add origin [url]`添加远端仓库\
+`git branch -M main`修改分支名
 
-`git pull origin [远程分支]:[本地分支]`
+`git remote add origin [url]`
+
+`git pull -u origin [远程分支](:[本地分支])`
 
 `git pull origin [分支]`提交
 
