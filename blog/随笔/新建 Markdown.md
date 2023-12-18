@@ -1,0 +1,1 @@
+[一句话帮你理解typedef的用法 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/81221267)
