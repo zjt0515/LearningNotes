@@ -2,7 +2,7 @@
 git init
 git add .
 git commit -m ""
-git remote add origin [ur]
+git remote add origin [url]
 git push -u origin main
 ```
 
@@ -37,6 +37,8 @@ git push -u origin main
 
 
 ## 分支管理
+
+`git branch -vv` 查看分支追踪关系
 
 `git branch`本地分支
 
